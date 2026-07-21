@@ -1,0 +1,5 @@
+interface:
+  display_name: Vidau Facebook AI Assistant
+  short_description: Route and answer Vidau Facebook/Meta AI Assistant questions with strict JSON and UI display rules.
+  icon: brain
+  color: "#1877F2"
